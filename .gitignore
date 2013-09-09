@@ -1,1 +1,3 @@
 .DS_Store
+# this is a temp build folder created by sublime text 2 processingh plugin
+build-tmp
